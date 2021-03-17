@@ -8,9 +8,9 @@ The main scene is located in Assets/Scenes.
 
 
 3.**Add a new mini-game to be able to run the minigame within the main world, get back to the mainworld from the minigame and add coins to the main world?**  
--Add the minigame-assets as a subfolder to the Unity-Project “Visuellt Lärande”.
- -If name conflict exists, where class-name conflicts with the class-names in the main-project the easiest way is to rename the class directly in for example Visual Studio.
--Create a GameObject that represents the minigame.
+- Add the minigame-assets as a subfolder to the Unity-Project “Visuellt Lärande”.  
+ - If name conflict exists, where class-name conflicts with the class-names in the main-project the easiest way is to rename the class directly in for example Visual Studio.  
+- Create a GameObject that represents the minigame.
 -Create a new C#-script and extend the script with the class “Minigame” and then attach the script to the GameObject.
 -Add the scene(s) for the minigame to the project with File->Build Settings->Add Open Scene.
 -Define the abstract string called scenename, a get-call should return the name of the scene that starts the minigame. Check the class StarShipCollider for an example. When starting the main world and moving the player to the GameObject you placed, you should now be able to start the minigame by pressing the spacebar.
