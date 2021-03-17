@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a675591503d6a7e4298b4a2f7cc8657a</guid>
+    <fileName>Assets/Scripts/CameraController.cs</fileName>
+    <timeStamp>2021-02-28T22:01:04.399215+01:00</timeStamp>
+    <typeFullName>
+      <string>CameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6498e7a7accac8442b08dcfe1857ddc6</guid>
+    <fileName>Assets/Scripts/GameManagerMainWorld.cs</fileName>
+    <timeStamp>2021-03-10T19:03:11.9652287+01:00</timeStamp>
+    <typeFullName>
+      <string>GameManagerMainWorld</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a558782d7e4c60d43a7a3d10a39bb29c</guid>
+    <fileName>Assets/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2021-03-11T14:38:40.1923768+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>113c83e6965a6f147bf761a4694f6d86</guid>
+    <fileName>Assets/Scripts/Achivments/AchivmentOrb.cs</fileName>
+    <timeStamp>2021-03-02T01:10:20.3505048+01:00</timeStamp>
+    <typeFullName>
+      <string>AchivmentOrb</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e1bb867e5f87e4743b82f130e6127146</guid>
+    <fileName>Assets/Scripts/InformationSign/Information.cs</fileName>
+    <timeStamp>2021-03-12T21:00:46.4129064+01:00</timeStamp>
+    <typeFullName>
+      <string>Information</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>befe3275eb61ac643af31f8370d04e75</guid>
+    <fileName>Assets/Scripts/Interacts/Interact.cs</fileName>
+    <timeStamp>2021-03-12T20:58:13.7736181+01:00</timeStamp>
+    <typeFullName>
+      <string>Interact</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e5902a5b339954f448f6b869aea60e00</guid>
+    <fileName>Assets/Scripts/MiniGameIntegration/Minigame.cs</fileName>
+    <timeStamp>2021-03-02T03:20:54.3193483+01:00</timeStamp>
+    <typeFullName>
+      <string>Minigame</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31b447515fd5e0347a2e7c931a707c8a</guid>
+    <fileName>Assets/Scripts/MiniGameIntegration/StarShipCollider.cs</fileName>
+    <timeStamp>2021-02-24T13:52:11.4596795+01:00</timeStamp>
+    <typeFullName>
+      <string>StarShipCollider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c23285f9b2e0b7347b25fdc04044f84f</guid>
+    <fileName>Assets/Scripts/SaveSystem/SaveData.cs</fileName>
+    <timeStamp>2021-03-10T21:07:41.6236477+01:00</timeStamp>
+    <typeFullName>
+      <string>SaveData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a699ec5f699ad49478d849ceded029f1</guid>
+    <fileName>Assets/Scripts/SaveSystem/SaveSystem.cs</fileName>
+    <timeStamp>2021-03-08T22:40:56.6620341+01:00</timeStamp>
+    <typeFullName>
+      <string>SaveSystem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4792010fcc2367438299a60be33a04e</guid>
+    <fileName>Assets/Scripts/Store/GameAssets.cs</fileName>
+    <timeStamp>2021-03-12T20:58:13.7636084+01:00</timeStamp>
+    <typeFullName>
+      <string>GameAssets</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>915e1d815b993f74fbc7c1648e1fb5fb</guid>
+    <fileName>Assets/Scripts/Store/IShopCustomer.cs</fileName>
+    <timeStamp>2021-03-10T18:17:58.1118997+01:00</timeStamp>
+    <typeFullName>
+      <string>IShopCustomer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9c2575b6fe6a8a41b2bf637fb7f50d2</guid>
+    <fileName>Assets/Scripts/Store/Item.cs</fileName>
+    <timeStamp>2021-03-12T21:02:47.5813028+01:00</timeStamp>
+    <typeFullName>
+      <string>Item</string>
+      <string>Item+ItemType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e3756eb62f75b7b46a20da1c213810cf</guid>
+    <fileName>Assets/Scripts/Store/ItemButtonObject.cs</fileName>
+    <timeStamp>2021-03-09T00:42:29.7231759+01:00</timeStamp>
+    <typeFullName>
+      <string>ItemButtonObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b59dc2365e157f94faf092a302286993</guid>
+    <fileName>Assets/Scripts/Store/ShopTriggerCollider.cs</fileName>
+    <timeStamp>2021-03-08T21:37:30.3936184+01:00</timeStamp>
+    <typeFullName>
+      <string>ShopTriggerCollider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aff3e615284a40a4eac3b107a09a9200</guid>
+    <fileName>Assets/Scripts/Store/UI_Shop.cs</fileName>
+    <timeStamp>2021-03-12T20:58:13.8296001+01:00</timeStamp>
+    <typeFullName>
+      <string>UI_Shop</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/StarSparrow/Readme/Readme Files/Scripts/ReadmeStarSparrow.cs</fileName>
+    <timeStamp>2021-02-18T16:13:13.2062275+01:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeStarSparrow</string>
+      <string>ReadmeStarSparrow+Section</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56b3964d2acb6074b9c11ef1e954f974</guid>
+    <fileName>Assets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeStarSparrowEditor.cs</fileName>
+    <timeStamp>2021-02-18T16:13:13.1672412+01:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeStarSparrowEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb329c7d8e36a52499e024bc961ab06c</guid>
+    <fileName>Assets/WordsInSpace/Scripts/GameManager.cs</fileName>
+    <timeStamp>2021-03-10T22:35:47.5416739+01:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d760516965060a846bcadd2d2aa3d9cb</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Player/FollowPlayer.cs</fileName>
+    <timeStamp>2021-02-02T10:37:24.51525+01:00</timeStamp>
+    <typeFullName>
+      <string>FollowPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3b88bde73f3fa1c4f9a404e95e7eb201</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Player/OutOfBoundsChecker.cs</fileName>
+    <timeStamp>2021-03-12T21:15:39.263019+01:00</timeStamp>
+    <typeFullName>
+      <string>OutOfBoundsChecker</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>609275a30f7c5e940881586c6c69c58a</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Player/PlayerControllerWordsInSpace.cs</fileName>
+    <timeStamp>2021-02-23T19:22:08.8698275+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerControllerWordsInSpace</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9297f1601d2b9f819ac97f1f71b218d5</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Astroid.cs</fileName>
+    <timeStamp>2021-03-03T20:30:36.4619415+01:00</timeStamp>
+    <typeFullName>
+      <string>Astroid</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b0da10d1a98f4f0199ad08c1651eb72</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/EnemyAttack.cs</fileName>
+    <timeStamp>2021-03-06T23:29:04.2796314+01:00</timeStamp>
+    <typeFullName>
+      <string>EnemyAttack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dee34eb35c59bfc11801411c4072fc4d</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/EnemyMovment.cs</fileName>
+    <timeStamp>2021-03-06T23:34:52.2893058+01:00</timeStamp>
+    <typeFullName>
+      <string>EnemyMovment</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bedfbe9f32d8e6c1889318e1a5bd07f6</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Explosion.cs</fileName>
+    <timeStamp>2021-03-06T23:35:37.3613612+01:00</timeStamp>
+    <typeFullName>
+      <string>Explosion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15eff1dc137691b00a45361c01fb8f66</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Laser.cs</fileName>
+    <timeStamp>2021-03-05T21:32:13.6492977+01:00</timeStamp>
+    <typeFullName>
+      <string>Laser</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c62da6d4dd77f84d895dd2c740f5893</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Letter.cs</fileName>
+    <timeStamp>2021-03-05T20:43:39.9942584+01:00</timeStamp>
+    <typeFullName>
+      <string>Letter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dab7af153cc676347988054912193152</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/PowerUpOne.cs</fileName>
+    <timeStamp>2021-02-23T19:24:17.2711589+01:00</timeStamp>
+    <typeFullName>
+      <string>PowerUpOne</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9a3fd9c38d96fa40a3d071a675c8393</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/PowerUpTwo.cs</fileName>
+    <timeStamp>2021-02-23T19:24:30.6931715+01:00</timeStamp>
+    <typeFullName>
+      <string>PowerUpTwo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>685641c8df9d8e3b494ec12183f4d9ff</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Spawners/AstroidSpawner.cs</fileName>
+    <timeStamp>2021-02-10T01:49:08.9852621+01:00</timeStamp>
+    <typeFullName>
+      <string>AstroidSpawner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1569a5f55cd5b58a4b70597743273d29</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Spawners/EnemySpawner.cs</fileName>
+    <timeStamp>2021-03-07T00:00:04.6488206+01:00</timeStamp>
+    <typeFullName>
+      <string>EnemySpawner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec26a2a81de399f4b8e37e137ed7c4e1</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Spawners/SpawnLetters.cs</fileName>
+    <timeStamp>2021-03-06T23:12:23.5599714+01:00</timeStamp>
+    <typeFullName>
+      <string>SpawnLetters</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5e2ec8762df7af34baa7994ea55f0417</guid>
+    <fileName>Assets/WordsInSpace/Scripts/Prefab/Spawners/SpawnPowers.cs</fileName>
+    <timeStamp>2021-03-06T23:56:42.9911515+01:00</timeStamp>
+    <typeFullName>
+      <string>SpawnPowers</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57e977906eb2637498ad679127ed015c</guid>
+    <fileName>Assets/WordsInSpace/Scripts/WordPlay/DragDrop.cs</fileName>
+    <timeStamp>2021-02-09T21:44:39.9438369+01:00</timeStamp>
+    <typeFullName>
+      <string>DragDrop</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7616f6fd5e75f44aa2e1af52f9c8b2e</guid>
+    <fileName>Assets/WordsInSpace/Scripts/WordPlay/ItemSlot.cs</fileName>
+    <timeStamp>2021-02-09T21:47:53.5796346+01:00</timeStamp>
+    <typeFullName>
+      <string>ItemSlot</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>60f1d13ba3307544e921f8f5d6ea2cf7</guid>
+    <fileName>Assets/WordsInSpace/Scripts/WordPlay/ItemSlotDropZone.cs</fileName>
+    <timeStamp>2021-02-10T01:04:22.8555105+01:00</timeStamp>
+    <typeFullName>
+      <string>ItemSlotDropZone</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>25a0ae787846af040a7f0f458fe104e4</guid>
+    <fileName>Assets/WordsInSpace/Scripts/WordPlay/WordPlay.cs</fileName>
+    <timeStamp>2021-03-10T19:12:54.4924883+01:00</timeStamp>
+    <typeFullName>
+      <string>WordPlay</string>
+      <string>RootJsonObject</string>
+      <string>JsonObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>62d2331e83ea7aa40bd50ddf8316b349</guid>
+    <fileName>Assets/WordsInSpace/Zero Rare/Retro Sound Effects/Demo/Demo.cs</fileName>
+    <timeStamp>2021-02-11T23:58:06.1207736+01:00</timeStamp>
+    <typeFullName>
+      <string>Demo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

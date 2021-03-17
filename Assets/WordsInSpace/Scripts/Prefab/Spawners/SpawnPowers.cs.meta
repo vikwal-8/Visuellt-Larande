@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5e2ec8762df7af34baa7994ea55f0417
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PowerInvulnprefab: {fileID: 6262898283449396259, guid: be7f719940cf3af4989919930ce91b44,
+      type: 3}
+  - PowerTimeprefab: {fileID: 3891156598824321678, guid: 51fe66e60c5890d418c5fd634786acb6,
+      type: 3}
+  - PowerSpeedprefab: {fileID: 3891156598824321678, guid: 51fe66e60c5890d418c5fd634786acb6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
